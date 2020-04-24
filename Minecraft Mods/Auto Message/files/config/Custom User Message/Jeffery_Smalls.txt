@@ -1,1 +1,1 @@
-Java NoNutException: Err at Optifine.Init:97 at Nut.Release()
+Java NoNutException: Err at Optifine>Init:97 at Nut>Release()
