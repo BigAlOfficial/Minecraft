@@ -1,2 +1,2 @@
-&GOLD&AutoMessage - Version: &AQUA&%version%:
+&GOLD&AutoMessage - Your Version: &AQUA&%VERSION%&GREEN& | &GOLD&Latest Version: &AQUA&%LATESTVERSION%:
 %/n/%&AQUA&- Added "/am cmd" to set commands to be run at end of game along with message!
