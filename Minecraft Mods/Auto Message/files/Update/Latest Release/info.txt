@@ -2,3 +2,4 @@
 %/n/%&AQUA&- Added multiple new commands and features!
 %/n/%&AQUA&- Added "/am cmd" menu to create custom commands
 %/n/%&AQUA&- New Command Menu allows you to create and develop custom functions using the chat, commands, and delays!
+%/n/%&AQUA&- Added some Error checking features to prevent issues
