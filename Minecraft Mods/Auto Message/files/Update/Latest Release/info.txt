@@ -1,2 +1,4 @@
 &GOLD&AutoMessage - Your Version: &AQUA&%VERSION%&GREEN& | &GOLD&Latest Version: &AQUA&%LATESTVERSION%:
-%/n/%&AQUA&- Added "/am cmd" to set commands to be run at end of game along with message!
+%/n/%&AQUA&- Added multiple new commands and features!
+%/n/%&AQUA&- Added "/am cmd" menu to create custom commands
+%/n/%&AQUA&- New Command Menu allows you to create and develop custom functions using the chat, commands, and delays!
