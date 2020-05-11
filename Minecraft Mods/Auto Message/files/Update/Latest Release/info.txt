@@ -4,3 +4,4 @@
 %/n/%&AQUA&- New Command Menu allows you to create and develop custom functions using the chat, commands, and delays!
 %/n/%&AQUA&- Added Major Error Correcting Features to Prevent Issues
 %/n/%&AQUA&- Added easier editing for message and command in their GUIs.
+%/n/%&AQUA&- Fixed major bug that prevents program from checking if what function is supposed to run. (Version 2.1)
